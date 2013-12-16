@@ -24,7 +24,13 @@
     "optimiseImages": true,
     "password": null,
     "ignoreDir": "ignore",
-    "ftpSettings": null,
+    "ftpSettings": {
+        "host": "HOST",
+        "port": 21,
+        "username": "USER",
+        "password": "PASS",
+        "path": "FOLDER"
+    },
     "autoPrefixer": null,
     "sitemap": false,
     "gitHubPages": null
