@@ -4,8 +4,8 @@ Beneaths Mixture-Template-Wireframing
 This is Beneaths template/boilerplate for Mixture to rapidly create a browser wireframe.
 
 ### 3rd party libraries, frameworks etc.
-- Bootstrap 3.0.3 (less source)
-- jQuery 1.10.2
+- Bootstrap 3.1.1 (less source)
+- jQuery 1.11.1
 
 ### Breakdown of how to use
 ___Styles___ New styles should preferably be written in lessCSS. This should all be done in less/master.less
