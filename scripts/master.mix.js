@@ -1,4 +1,4 @@
-@import "libs/jquery-1.10.2.min.js";
+@import "libs/jquery-1.11.1.min.js";
 //@import "libs/bootstrap/_affix.js";
 //@import "libs/bootstrap/_alert.js";
 //@import "libs/bootstrap/_button.js";
